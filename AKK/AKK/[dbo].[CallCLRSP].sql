@@ -1,0 +1,5 @@
+CREATE PROCEDURE [dbo].[CallCLRSP]
+WITH EXECUTE AS CALLER
+AS EXTERNAL NAME [SQLCLRTEST].[StoredProcedures].[CallWebService];
+
+GO
