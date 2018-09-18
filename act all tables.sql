@@ -1,0 +1,1 @@
+../../SQL Server Management Studio/act all tables.sql
